@@ -1,2 +1,2 @@
 # LoL-Spectate
-Tool that enables you to spectate anyone by entering just their name regardless of region, no need to log in or have the game open
+Simple tool that enables you to spectate anyone by entering their summoner name and region. No need to log in or have the launcher open.
